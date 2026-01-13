@@ -1,18 +1,34 @@
-# 📱 Project Name
+# 👋 Hello, I'm Jackson202-svg
 
-> A one-sentence summary of what this does.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Jackson202-svg?label=Followers&style=for-the-badge&color=2ea44f" alt="Followers">
+  <img src="https://img.shields.io/badge/Suno_AI-Music_Creator-FF0050?style=for-the-badge&logo=music" alt="Suno Profile">
+</p>
 
-## ✨ Features
-- 🚀 **Feature 1**: Description.
-- 🛠 **Feature 2**: Description.
+---
 
-## 📸 Screenshots
-![Your Image Name](PASTE_LINK_FROM_ISSUE_TRICK_HERE)
+### 🎵 My Music (Suno AI)
+I create AI-generated music and experimental tracks. You can listen to my latest work directly on my Suno profile:
 
-## ⚙️ Setup
-1. Copy the code.
-2. Run `npm install`.
-3. Open on your device.
+👉 **[Listen to my music on Suno](https://suno.com/@ck62zc29cw)**
 
-## 📄 License
-This project is licensed under the MIT License.
+---
+
+### 🛠 Tech & Tools
+* 🖥 **GitHub**: [Jackson202-svg](https://github.com/Jackson202-svg)
+* 🎧 **Audio**: Suno AI / Generative Audio
+* 📁 **Focus**: Markdown, SVG, and Repository Organization
+
+### 📊 GitHub Stats
+![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackson202-svg&show_icons=true&theme=transparent)
+
+---
+
+### 🤝 Connect with Me
+* 🌐 **Suno Profile**: [@ck62zc29cw](https://suno.com/@ck62zc29cw)
+* 🐙 **GitHub**: [Jackson202-svg](https://github.com/Jackson202-svg)
+
+---
+<p align="center">
+  <i>Generated with ❤️ using my iPhone</i>
+</p>
