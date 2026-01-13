@@ -1,14 +1,15 @@
-# 🚀 Project Dashboard
+# 🚀 Jackson202-svg | Project Dashboard
 
-Welcome to my project dashboard repository!  
-This repo hosts a simple web-based dashboard and acts as a central hub for my projects, links, and experiments.
+Welcome to my **Project Dashboard** — a central hub for my **web tools, music, and gaming experiences**.  
+This repository powers my live GitHub Pages dashboard.
+
+---
+
+## 🌐 Live Dashboard
+
+👉 **Visit the dashboard:**  
+https://jackson202-svg.github.io/
 
 ---
 
 ## 📂 Repository Structure
-
-```text
-your-repo/
-├── index.html   # Main dashboard webpage
-├── style.css    # Styling for the dashboard
-└── README.md    # This dashboard overview
