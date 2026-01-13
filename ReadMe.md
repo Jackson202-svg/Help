@@ -8,7 +8,7 @@ This repository powers my live GitHub Pages dashboard.
 ## 🌐 Live Dashboard
 
 👉 **Visit the dashboard:**  
-https://jackson202-svg.github.io/
+[https://jackson202-svg.github.io/](https://jackson202-svg.github.io/Help/)
 
 ---
 
