@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0f0f14;
+  color: #fff;
+  text-align: center;
+}
+
+header {
+  padding: 3rem 1rem;
+  background: linear-gradient(135deg, #ff0050, #6a00ff);
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+
+section {
+  padding: 2rem 1rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+.card {
+  background: #1b1b25;
+  padding: 1.5rem;
+  border-radius: 12px;
+}
+
+.card a, .btn {
+  display: inline-block;
+  margin-top: 0.7rem;
+  padding: 0.6rem 1.2rem;
+  background: #ff0050;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+footer {
+  padding: 1.5rem;
+  opacity: 0.6;
+}
